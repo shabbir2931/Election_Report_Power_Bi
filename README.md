@@ -31,3 +31,4 @@ StackedBarChart: This chart shows the margin of victory and losses, helping to u
 
 BarChart: This represents the number of seats won by each party, offering insight into their overall performance.
 Additionally, I have included data on the distribution of votes across different states to give a regional perspective on the election results.
+![Screenshot (295)](https://github.com/shabbir2931/Election_Report_Power_Bi/assets/143161219/b1d6b7f9-777e-4dd4-8a7d-f752c3ff4431)
